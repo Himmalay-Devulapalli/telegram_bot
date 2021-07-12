@@ -6,7 +6,7 @@ This python code will demonstrate how to code a simple telegram bot
 # Requirements
 1) Install the python-telegram-bot package using pip or conda 
 
-pip install python-telegram-bot
+pip install python-telegram-bot\
 conda install -c conda-forge python-telegram-bot
 
 2) Install any code editor of your choice, better to use pycharm while working with python.
