@@ -19,4 +19,5 @@ conda install -c conda-forge python-telegram-bot
 
 6) Run the telegram bot code with appropriate bot token 
 
-
+# Output 
+![Screenshot](output.png)
